@@ -1,6 +1,6 @@
 Hi, I'm David Onungwe
 
-<p align="justify">As a data visualization and dashboarding aficionado, I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions. Utilizing my expertise in tools such as Tableau, Python, Google Analytics, and Excel, I have a proven history of crafting visually compelling and informative dashboards that effectively communicate key insights. My skill-set includes data analysis, data modeling, and the creation of interactive charts and graphs. In addition to my technical expertise, I pride myself on being a creative problem solver with an innate ability to distill complex data into easily digestible visuals that resonate with both technical and non-technical stakeholders. I am a lifelong learner, constantly seeking new opportunities to enhance my skills and to make a meaningful impact by helping organizations unlock the full potential of their data through effective visualization and dashboarding</p>
+<p align="justify">As a data visualization and dashboarding professional, I am passionate about turning raw data into intuitive, interactive dashboards that empower organizations to make data-driven decisions. Utilizing my expertise in tools such as Power BI, Tableau, SQL, Python, Google Analytics, and Excel, I have a proven history of crafting visually compelling and informative dashboards that effectively communicate key insights. My skill set includes data analysis, data modeling, and the creation of interactive charts and graphs. In addition to my technical expertise, I pride myself on being a creative problem solver with an innate ability to distill complex data into easily digestible visuals that resonate with both technical and non-technical stakeholders. I am a lifelong learner, constantly seeking new opportunities to enhance my skills and to make a meaningful impact by helping organizations unlock the full potential of their data through effective visualization and dashboarding</p>
 
 I also love working with different technologies & platforms and my current favorite ones are ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) 
 
@@ -12,9 +12,9 @@ I also love working with different technologies & platforms and my current favor
 
 <br> 
 
-[⏩ &nbsp; and many more](https://public.tableau.com/app/profile/subhanjan.subhasis.das) 
+[⏩ &nbsp; and many more](https://public.tableau.com/app/profile/david.onungwe/vizzes) 
 
-📫 Reach me at **subhanjan33@gmail.com** or **subhanjandas33@gmail.com** 
+📫 Reach me at **onungwed@gmail.com** 
 
 <details>
   <summary><b><h2>👨&nbsp;&nbsp;About&nbsp;Me</h2></b></summary>
