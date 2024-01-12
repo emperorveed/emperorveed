@@ -53,13 +53,12 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
 
 <br>
 
-📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1SdLqRDHSuqOfUta9FVp0IyWKy9VMve-s/view?usp=sharing)
+📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1LdZrR6W-Y2Pahmih0ckZCs3e9RC0o616/view?usp=drive_link)
 
 <br>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/subhanjansd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subhanjansd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhanjan-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhanjan-das" height="30" width="40" /></a>
-<a href="https://kaggle.com/subhanjan33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="subhanjan33" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emperorveed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emperorveed" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/davidonungwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="davidonungwe" height="30" width="40" /></a>
 </p>
