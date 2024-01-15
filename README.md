@@ -6,7 +6,7 @@ I love working with different technologies & platforms and my current favorite o
 
 
 <div>
-  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/emperorveed/emperorveed/ezgif.com-animated-gif-maker.gif" width="400" height="240" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/emperorveed/emperorveed/blob/main/ezgif.com-animated-gif-maker.gif" width="400" height="240" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-ECOMM.gif" width="400" height="240" /></a>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://github.com/subhanjandas/subhanjandas/blob/main/ezgif.com-gif-maker-Retail.gif" width="400" height="240" /></a>
 </div> 
