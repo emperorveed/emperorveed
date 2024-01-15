@@ -7,6 +7,7 @@ I love working with different technologies & platforms and my current favorite o
 
 <div>
   <a href="https://public.tableau.com/app/profile/david.onungwe/viz/HRAttritionDashboard_17047439331520/HRANALYTICSDASHBOARD" target="_blank"><img src="https://github.com/emperorveed/emperorveed/blob/main/ezgif.com-animated-gif-maker.gif" width="400" height="240" /></a>
+   <a href="https://public.tableau.com/app/profile/david.onungwe/viz/HRAttritionDashboard_17047439331520/HRANALYTICSDASHBOARD" target="_blank"><img src="https://github.com/emperorveed/emperorveed/blob/main/ezgif.com-animated-gif-maker (1).gif" width="400" height="240" /></a>
  
 
 <br> 
