@@ -53,7 +53,7 @@ I am passionate about turning raw data into intuitive, interactive dashboards th
 
 <br>
 
-📄 To know about my experiences have a look at my [resume](https://drive.google.com/file/d/1LdZrR6W-Y2Pahmih0ckZCs3e9RC0o616/view?usp=drive_link)
+📄 To know about my experience have a look at my [resume](https://drive.google.com/file/d/1EKUtmfsZUGYf5yjoDU5XGLqrcqYjrhw5/view?usp=drive_link)
 
 <br>
 
